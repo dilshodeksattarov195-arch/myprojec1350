@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userfync",
+        "uuid": 5508000,
+        "checksum": "koqm32"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
